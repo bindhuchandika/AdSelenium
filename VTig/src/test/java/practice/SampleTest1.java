@@ -33,6 +33,7 @@ public void m1()
 			WebDriverManager.edgedriver().setup();
 			driver = new EdgeDriver();
 		}
+	//omg
 		else
 		{
 			driver = new ChromeDriver();
